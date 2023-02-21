@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactbefit/static/css/main.786c6cee.css",
+    "main.js": "/reactbefit/static/js/main.8ff8d0bd.js",
+    "static/media/travel (5).jpg": "/reactbefit/static/media/travel (5).11f6f09cedb10498d9cc.jpg",
+    "static/media/travel (4).jpg": "/reactbefit/static/media/travel (4).0a2c102ce2ea8b280b6c.jpg",
+    "static/media/travel (2).jpg": "/reactbefit/static/media/travel (2).ad490fc8acec16e5d41a.jpg",
+    "static/media/travel (7).jpg": "/reactbefit/static/media/travel (7).a44304cf172c521d0b39.jpg",
+    "static/media/travel (8).jpg": "/reactbefit/static/media/travel (8).71cb49d233a89ba8456e.jpg",
+    "static/media/travel (1).jpg": "/reactbefit/static/media/travel (1).5a075b600b8f8c10347e.jpg",
+    "static/media/travel (6).jpg": "/reactbefit/static/media/travel (6).e8eae01aa0565a3feaf1.jpg",
+    "static/media/travel (3).jpg": "/reactbefit/static/media/travel (3).85f18919632d628d6185.jpg",
+    "index.html": "/reactbefit/index.html",
+    "main.786c6cee.css.map": "/reactbefit/static/css/main.786c6cee.css.map",
+    "main.8ff8d0bd.js.map": "/reactbefit/static/js/main.8ff8d0bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.786c6cee.css",
+    "static/js/main.8ff8d0bd.js"
+  ]
+}
